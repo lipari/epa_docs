@@ -1,5 +1,5 @@
- | Vendor/Provider | Solution | Supported | Licensing | URL |  | Short Description (200 characters)
--|-----------------|----------|-----------|-----------|-----|--|-----------------------------------
+Category | Vendor/Provider | Solution | Supported | Licensing | URL |  | Short Description (200 characters)
+---------|-----------------|----------|-----------|-----------|-----|--|-----------------------------------
 Decision / Policy Engine |  |  |  |  |  |  | 
  | Adaptive Computing | Moab (Power-aware Scheduling) | Yes - Commercial | Commercial | "http://www.adaptivecomputing.com/products/capabilities/power/
 http://docs.adaptivecomputing.com/9-0-1/MWM/help.htm#topics/moabWorkloadManager/topics/powerManagement/aboutGreen.htm%3FTocPath%3D15%2520Green%2520Computing%7C_____0" |  | 
